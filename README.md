@@ -14,7 +14,7 @@
       <li>My current research focuses on heuristic-based capacity planning and time series forecasting</li>
     </ul>
   </li>
-  <li>Areas of Interest: Data Science, Machine Learning, Data viz</li>
+  <li>Areas of Interest: Data Science, Machine Learning, DataViz</li>
 </ul>
 
 [![An image of @moabalv5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moabalv5)](https://holopin.io/@moabalv5)
