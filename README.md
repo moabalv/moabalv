@@ -1,11 +1,4 @@
 <img src="assets/header-github.gif" alt="Header Image" align = "right" width = 300px>
-<h3>About me</h3>
-<ul>
-  <li>I'm from Brazil and I'm 20 years old</li>
-  <li>I'm a clarinetist at my neighbourhood's philharmonic orchestra</li>
-  <li>Biggest fan of Japanese and Fantasy Literature</li>
-</ul>
-
 <h3>Working on</h3>
 <ul>
   <li>Computer Science Undergraduate Student at UFCG</li>
